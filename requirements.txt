@@ -1,9 +1,9 @@
 oauth2client
 PyOpenSSL
-flask==0.9
-flask-wtf==0.8.4
-pytz==2013b
-flask-babel==0.8
+flask
+flask-wtf
+pytz
+flask-babel
 flup
 pydocumentdb>=1.0.0
 gspread
